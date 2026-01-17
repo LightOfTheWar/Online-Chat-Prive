@@ -1,0 +1,13 @@
+By LightOfTheWar
+
+
+Pour ce programme il vous faudra seulement python d'installer
+si ce n'est pas le cas je vous invite à le faire
+
+Ce programme est un chat en ligne
+Il va se connecter a different appareils pour pouvoir gerer les gens qui s'y connecterons
+
+
+Pour la configuration du server il est necessaire d'aller dans le server.py
+et de modifier SEULEMENT LE PORT (l'ip est mise automatiquement lors du lancement)
+il faut mettre un port qui a ETE OUVERT dans les parametres de votre box internet
