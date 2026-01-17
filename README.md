@@ -11,7 +11,6 @@ Il va se connecter a un server pour pouvoir se connecter/cree votre compte
 - IMPORTANT -
 Vous devez lancer le Run.bat
 il vous demandera si vous compter aller sur le server par default ou un server personnalisé
-- IMPORTANT -
 
 
 Le server par default demande rien et vous lance le programme
